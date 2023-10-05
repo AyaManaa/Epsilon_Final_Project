@@ -1,5 +1,5 @@
 # Epsilon_Final_Project
-This Project has two datasets. The first one is `prev_df` it has a history of previous loan applications and its stat is *Approved* or *Refused*.
+This Project has two datasets. The first one is `prev_df` it has a history of previous loan applications and their status whether it's *Approved* or *Refused*.
 
 The second one is `app_df` it's our main data set. It has the current clients that are applying for a loan, where we help the bank to decide whether to Approve or Refuse the loan. By analyzing the client's behavior and predicting whether the client will default or not.
 
